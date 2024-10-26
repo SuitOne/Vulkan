@@ -1,0 +1,20 @@
+# Ignore all
+*
+
+# Track cpp and h
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+
+# Track Git
+!*.gitignore
+!*.md
+
+# Track shaders
+!*.frag
+!*.vert
+
+# Track relevant directories
+!/src
+!/shaders
